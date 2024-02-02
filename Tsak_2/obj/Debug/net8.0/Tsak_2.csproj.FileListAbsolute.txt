@@ -1,0 +1,14 @@
+/home/tatiana/Documents/Изучение С#/Массивы_и_Строки/Seminar_6_HW/Tsak_2/bin/Debug/net8.0/Tsak_2
+/home/tatiana/Documents/Изучение С#/Массивы_и_Строки/Seminar_6_HW/Tsak_2/bin/Debug/net8.0/Tsak_2.deps.json
+/home/tatiana/Documents/Изучение С#/Массивы_и_Строки/Seminar_6_HW/Tsak_2/bin/Debug/net8.0/Tsak_2.runtimeconfig.json
+/home/tatiana/Documents/Изучение С#/Массивы_и_Строки/Seminar_6_HW/Tsak_2/bin/Debug/net8.0/Tsak_2.dll
+/home/tatiana/Documents/Изучение С#/Массивы_и_Строки/Seminar_6_HW/Tsak_2/bin/Debug/net8.0/Tsak_2.pdb
+/home/tatiana/Documents/Изучение С#/Массивы_и_Строки/Seminar_6_HW/Tsak_2/obj/Debug/net8.0/Tsak_2.GeneratedMSBuildEditorConfig.editorconfig
+/home/tatiana/Documents/Изучение С#/Массивы_и_Строки/Seminar_6_HW/Tsak_2/obj/Debug/net8.0/Tsak_2.AssemblyInfoInputs.cache
+/home/tatiana/Documents/Изучение С#/Массивы_и_Строки/Seminar_6_HW/Tsak_2/obj/Debug/net8.0/Tsak_2.AssemblyInfo.cs
+/home/tatiana/Documents/Изучение С#/Массивы_и_Строки/Seminar_6_HW/Tsak_2/obj/Debug/net8.0/Tsak_2.csproj.CoreCompileInputs.cache
+/home/tatiana/Documents/Изучение С#/Массивы_и_Строки/Seminar_6_HW/Tsak_2/obj/Debug/net8.0/Tsak_2.dll
+/home/tatiana/Documents/Изучение С#/Массивы_и_Строки/Seminar_6_HW/Tsak_2/obj/Debug/net8.0/refint/Tsak_2.dll
+/home/tatiana/Documents/Изучение С#/Массивы_и_Строки/Seminar_6_HW/Tsak_2/obj/Debug/net8.0/Tsak_2.pdb
+/home/tatiana/Documents/Изучение С#/Массивы_и_Строки/Seminar_6_HW/Tsak_2/obj/Debug/net8.0/Tsak_2.genruntimeconfig.cache
+/home/tatiana/Documents/Изучение С#/Массивы_и_Строки/Seminar_6_HW/Tsak_2/obj/Debug/net8.0/ref/Tsak_2.dll

@@ -1,0 +1,14 @@
+/home/tatiana/Documents/Изучение С#/Массивы_и_Строки/Seminar_6_HW/Task_4/bin/Debug/net8.0/Task_4
+/home/tatiana/Documents/Изучение С#/Массивы_и_Строки/Seminar_6_HW/Task_4/bin/Debug/net8.0/Task_4.deps.json
+/home/tatiana/Documents/Изучение С#/Массивы_и_Строки/Seminar_6_HW/Task_4/bin/Debug/net8.0/Task_4.runtimeconfig.json
+/home/tatiana/Documents/Изучение С#/Массивы_и_Строки/Seminar_6_HW/Task_4/bin/Debug/net8.0/Task_4.dll
+/home/tatiana/Documents/Изучение С#/Массивы_и_Строки/Seminar_6_HW/Task_4/bin/Debug/net8.0/Task_4.pdb
+/home/tatiana/Documents/Изучение С#/Массивы_и_Строки/Seminar_6_HW/Task_4/obj/Debug/net8.0/Task_4.GeneratedMSBuildEditorConfig.editorconfig
+/home/tatiana/Documents/Изучение С#/Массивы_и_Строки/Seminar_6_HW/Task_4/obj/Debug/net8.0/Task_4.AssemblyInfoInputs.cache
+/home/tatiana/Documents/Изучение С#/Массивы_и_Строки/Seminar_6_HW/Task_4/obj/Debug/net8.0/Task_4.AssemblyInfo.cs
+/home/tatiana/Documents/Изучение С#/Массивы_и_Строки/Seminar_6_HW/Task_4/obj/Debug/net8.0/Task_4.csproj.CoreCompileInputs.cache
+/home/tatiana/Documents/Изучение С#/Массивы_и_Строки/Seminar_6_HW/Task_4/obj/Debug/net8.0/Task_4.dll
+/home/tatiana/Documents/Изучение С#/Массивы_и_Строки/Seminar_6_HW/Task_4/obj/Debug/net8.0/refint/Task_4.dll
+/home/tatiana/Documents/Изучение С#/Массивы_и_Строки/Seminar_6_HW/Task_4/obj/Debug/net8.0/Task_4.pdb
+/home/tatiana/Documents/Изучение С#/Массивы_и_Строки/Seminar_6_HW/Task_4/obj/Debug/net8.0/Task_4.genruntimeconfig.cache
+/home/tatiana/Documents/Изучение С#/Массивы_и_Строки/Seminar_6_HW/Task_4/obj/Debug/net8.0/ref/Task_4.dll
